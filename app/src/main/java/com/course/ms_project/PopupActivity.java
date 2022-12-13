@@ -112,16 +112,16 @@ public class PopupActivity extends Activity {
         Calorie food15 = new Calorie("15","비빔밥", "500");
         calorieList.add(food15);
 
-        Calorie food16 = new Calorie("16","쌀밥", "300");
+        Calorie food16 = new Calorie("16","후라이드치킨", "1680");
         calorieList.add(food16);
 
-        Calorie food17 = new Calorie("17","된장찌개", "128");
+        Calorie food17 = new Calorie("17","양념치킨", "1954");
         calorieList.add(food17);
 
-        Calorie food18 = new Calorie("18","쌀밥", "300");
+        Calorie food18 = new Calorie("18","햄버거", "1437");
         calorieList.add(food18);
 
-        Calorie food19 = new Calorie("19","된장찌개", "128");
+        Calorie food19 = new Calorie("19","피자", "2763");
         calorieList.add(food19);
 
     }
