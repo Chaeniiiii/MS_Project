@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606714552636",
+    "firebase_url": "https://ms-db-3640f-default-rtdb.firebaseio.com",
+    "project_id": "ms-db-3640f",
+    "storage_bucket": "ms-db-3640f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606714552636:android:b2263c8dbaf9d51ac6be39",
+        "android_client_info": {
+          "package_name": "com.course.ms_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606714552636-iftv9b2314l38rmj759k7apr9p4i1htq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoNcZgHoI9bYSO1TVGaR-e6qVIWEoJhQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606714552636-iftv9b2314l38rmj759k7apr9p4i1htq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
