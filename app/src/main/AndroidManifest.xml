@@ -35,7 +35,7 @@
         <!-- api 키 절대절대 공유금지 아래 meta-data에 value부분 -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCkWgRDEnHLXTutPVWFLKYGTUIqxV56R9w" />
+            android:value="your-key" />
 
         <activity
             android:name=".CreatingDiet"
