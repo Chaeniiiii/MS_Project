@@ -207,8 +207,6 @@ public class CreatingDiet extends AppCompatActivity {
         if (requestCode == 1) {
             if (resultCode == RESULT_OK) {
                 //데이터 받기
-                System.out.println("실행된다 십랑ㄹ아");
-                System.out.println("넌뭐냐"+resultCode+data);
                 String result = data.getStringExtra("calorie");
                 F_cal.setText(result);
             }
